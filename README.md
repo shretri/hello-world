@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+this is shretri. i am new to this.
